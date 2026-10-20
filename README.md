@@ -7,7 +7,7 @@ Data Engineering student at UTM. I write SQL, mess around with ESP32 boards, and
 - 👯 Looking to collaborate on: IoT projects, electronics repair, or anything interesting enough to make me lose track of time.
 - 🤔 Need help with: Getting my Linux setup to behave.
 - 💬 Ask me about: ESP32, PC hardware, Kamen Rider, or motorcycles.
-- 📫 Contact: "Email" (mailto:YOUR_EMAIL) · "LinkedIn" (YOUR_LINKEDIN_URL)
+- 📫 Contact: "Email" (mailto:dr35gs@gmail.com) · "LinkedIn" (https://my.linkedin.com/in/alvnshh)
 - ⚡ Fun fact: I own a soldering iron and a Modenas Z15GT. Both have caused me problems.
 
 Stuff I mess with
